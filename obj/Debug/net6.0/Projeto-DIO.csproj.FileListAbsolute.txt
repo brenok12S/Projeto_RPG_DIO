@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Área de Trabalho\Projeto-DIO\bin\Debug\net6.0\Projeto-DIO.exe
+C:\Users\breno\OneDrive\Área de Trabalho\Projeto-DIO\bin\Debug\net6.0\Projeto-DIO.deps.json
+C:\Users\breno\OneDrive\Área de Trabalho\Projeto-DIO\bin\Debug\net6.0\Projeto-DIO.runtimeconfig.json
+C:\Users\breno\OneDrive\Área de Trabalho\Projeto-DIO\bin\Debug\net6.0\Projeto-DIO.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Projeto-DIO\bin\Debug\net6.0\ref\Projeto-DIO.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Projeto-DIO\bin\Debug\net6.0\Projeto-DIO.pdb
+C:\Users\breno\OneDrive\Área de Trabalho\Projeto-DIO\obj\Debug\net6.0\Projeto-DIO.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Área de Trabalho\Projeto-DIO\obj\Debug\net6.0\Projeto-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Área de Trabalho\Projeto-DIO\obj\Debug\net6.0\Projeto-DIO.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Área de Trabalho\Projeto-DIO\obj\Debug\net6.0\Projeto-DIO.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Área de Trabalho\Projeto-DIO\obj\Debug\net6.0\Projeto-DIO.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Área de Trabalho\Projeto-DIO\obj\Debug\net6.0\Projeto-DIO.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Projeto-DIO\obj\Debug\net6.0\ref\Projeto-DIO.dll
+C:\Users\breno\OneDrive\Área de Trabalho\Projeto-DIO\obj\Debug\net6.0\Projeto-DIO.pdb
+C:\Users\breno\OneDrive\Área de Trabalho\Projeto-DIO\obj\Debug\net6.0\Projeto-DIO.genruntimeconfig.cache
